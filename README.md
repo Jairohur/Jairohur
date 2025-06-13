@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, Jairo</h1>
 <h3 align="center">A passionate frontend developer from Sweden, based in Tokyo</h3>
 
-- 🔭 I’m currently working on **Buki**
+- Currently working on **Buki**
+
+I’m a UX designer with over 7 years of experience working across three continents and five cities, bringing a global perspective to user-centered design. In 2024, I relocated to Sweden for family reasons before returning to Tokyo to complete an intensive 9-week web development course at Le Wagon. Now, I'm excited to transition into front-end development, where I aim to create seamless, intuitive digital experiences by bridging design and code.
+
+I thrive in diverse, collaborative environments that embrace lean methodologies and continuous improvement. I’m energized by bold, forward-thinking leadership and value organizations that foster open dialogue across all levels—from junior team members to executive leadership.
+
+I'm currently open to new opportunities. If you're interested in connecting, feel free to reach out.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
